@@ -1,1 +1,1 @@
-# CSE241-Object-Oriented-Programming
+There are C++ and Java projects for Object Oriented Programming class. 
