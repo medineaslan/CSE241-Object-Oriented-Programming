@@ -1,2 +1,2 @@
 To run this program you can use makefile.
-Enter this commands respectively : make and ./exe.
+Enter these commands respectively in terminal: make and ./exe.
