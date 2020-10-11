@@ -1,4 +1,0 @@
-#ifndef GTUCONTAINER_CPP
-#define GTUCONTAINER_CPP
-
-#endif 
